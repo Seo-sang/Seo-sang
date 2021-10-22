@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+![Seo-sang](https://github-readme-stats.vercel.app/api?username=tjtkdgus45&theme=gruvbox_light&show_icons=true)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjtkdgus45)](https://solved.ac/tjtkdgus45)
